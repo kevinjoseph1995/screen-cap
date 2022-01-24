@@ -1,0 +1,1 @@
+add_executable(screen-cap entry.cpp)
